@@ -1,0 +1,29 @@
+.userDate {
+  margin: 5rem 0;
+  background-color: rgb(231, 231, 231);
+  padding: 10px;
+}
+
+.getfrom {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+}
+.getfrom .username {
+  flex: 1;
+}
+.getfrom .date {
+  flex: 1;
+}
+.getfrom .date {
+  flex: 1;
+}
+.getfrom .age {
+  flex: 1;
+}
+.getfrom .sex {
+  flex: 1;
+}
+.getfrom .address {
+  flex: 2;
+}/*# sourceMappingURL=style.css.map */
